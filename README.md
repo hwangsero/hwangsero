@@ -3,8 +3,15 @@
 <!--
 **hwangsero/hwangsero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+TechStack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=red"/></a>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwangsero&show_icons=true&theme=chartreuse-dark)](https://github.com/hwangsero/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hsro2228)](https://solved.ac/hsro2228)
+
+구경할 곳들
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
