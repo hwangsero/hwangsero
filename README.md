@@ -8,7 +8,7 @@
 - 최근에는 **MSA**와 **JPA**에 관심을 가지며 학습 중에 있습니다.
 
 
-### 💻 기술스텍
+### 💻 기술 스텍
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
