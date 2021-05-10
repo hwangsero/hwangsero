@@ -1,9 +1,12 @@
 # 🙋‍♂ ️Hwang Se Ro
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
-### Hi there 👋
+### 👋 간단한 소개
+- 안녕하세요! 신입 백엔드 개발자 황세로입니다
+- 애플리케이션 개발 뿐만 아니라 인프라 구축 등 백엔드를 구성하는 전반적인 지식들에 관심이 많습니다.
+- 테스트 코드의 중요성을 알기에 **TDD/BDD 개발 방법론**을 통해 **테스트 기반 코드 구현**을 실천합니다.
+- 최근에는 **MSA**와 **JPA**에 관심을 가지며 학습 중에 있습니다.
 
-**hwangsero/hwangsero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 💻 기술스텍
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
