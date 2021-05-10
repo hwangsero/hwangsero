@@ -1,3 +1,6 @@
+# 🙋‍♂ ️Hwang Se Ro
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
+
 ### Hi there 👋
 
 **hwangsero/hwangsero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Travis-3EAAAF?style=flat-square&logo=Travis&logoColor=white"/></a>
 
@@ -25,8 +28,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwangsero&show_icons=true&theme=chartreuse-dark)](https://github.com/hwangsero/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hsro2228)](https://solved.ac/hsro2228)
 
-### 구경할 곳들  
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
 
 
