@@ -1,5 +1,5 @@
 # 🙋‍♂ ️Hwang Se Ro
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
 ### 👋 간단한 소개
 - 안녕하세요! 신입 백엔드 개발자 황세로입니다
