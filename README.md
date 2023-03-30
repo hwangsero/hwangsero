@@ -1,5 +1,6 @@
 # 🙋‍♂ ️Hwang Se Ro
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980)]([https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/](https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980)) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980/)](https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980/) 
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://srhwang.notion.site/373ae70ed87e48e19e19f921fa7a0b74/)](https://srhwang.notion.site/373ae70ed87e48e19e19f921fa7a0b74/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
 ### 👋 간단한 소개
 - 사내 ELK 기술 스택을 새롭게 도입하여 게임 서버 및 주요 서비스들의 Log, Metric, APM 모니터링할 수 있는 시스템을 구축
