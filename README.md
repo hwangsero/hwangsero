@@ -3,9 +3,13 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://srhwang.notion.site/373ae70ed87e48e19e19f921fa7a0b74/)](https://srhwang.notion.site/373ae70ed87e48e19e19f921fa7a0b74/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
 ### 👋 간단한 소개
-- 사내 ELK 기술 스택을 새롭게 도입하여 게임 서버 및 주요 서비스들의 Log, Metric, APM 모니터링할 수 있는 시스템을 구축
-- 약 200만 DAU를 보유한 게임들의 인게임, 마케팅 데이터들의 데이터 파이프라인을 Airflow, Hadoop 등의 기술 스택을 활용하여 구축 
-- Data Analyst와 지속적으로 협업하며 광고 캠페인들의 LTV, ROI 등 딥러닝 모델을 통한 미래 성과 예측 데이터 제공
+[게임 서버 및 주요 서비스들의 안정화를 위한 모니터링 시스템 구축]  
+Elasticsearch, Logstash, Kibana를 Dockerizing하여 게임 서버 및 주요 서비스들의 Log, Metric, APM 모니터링할 수 있는 시스템을 구축  
+Daily 50G의 데이터들을 수집, 변환, 적재 후 kibana 대시보드를 통해 시각화하여 실시간 게임 서버를 모니터링을 통해 서버 안정화
+
+[안정적인 데이터 파이프라인 구축]  
+MMP 업체의 마케팅 데이터, BigQuery에 적재된 인게임 데이터들의 데이터 파이프라인을 Airflow을 통한 워크플로우 구축, HDFS 적재, Hive 파티셔닝, Impala를 통한 대화형 쿼리 분석 환경 제공   
+Data Analyst와 지속적으로 협업하며 광고 캠페인들의 LTV, ROI 등 딥러닝 모델을 통한 미래 성과 예측 데이터 제공
 
 ### 💻 기술 스택
 ## DataEngineer
