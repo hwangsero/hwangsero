@@ -7,7 +7,7 @@
 - 약 200만 DAU를 보유한 게임들의 인게임, 마케팅 데이터들의 데이터 파이프라인을 Airflow, Hadoop 등의 기술 스택을 활용하여 구축 
 - Data Analyst와 지속적으로 협업하며 광고 캠페인들의 LTV, ROI 등 딥러닝 모델을 통한 미래 성과 예측 데이터 제공
 
-### 💻 기술 스텍
+### 💻 기술 스택
 ## DataEngineer
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
