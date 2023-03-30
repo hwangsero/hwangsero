@@ -1,5 +1,5 @@
 # 🙋‍♂ ️Hwang Se Ro
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/)](https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980)]([https://www.notion.so/hwangsero/_Hwang-Se-Ro-61f4d92dd57b4f8bbcce679d6628de4e/](https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980)) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://hsro2228.tistory.com/)](https://hsro2228.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
 ### 👋 간단한 소개
 - 사내 ELK 기술 스택을 새롭게 도입하여 게임 서버 및 주요 서비스들의 Log, Metric, APM 모니터링할 수 있는 시스템을 구축
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 
-## Java Backend-developer
+## Java BackendDeveloper
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
