@@ -2,7 +2,6 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980/)](https://srhwang.notion.site/f80f82f3e4974630aa2eafd8d5b7c980/) 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://srhwang.notion.site/373ae70ed87e48e19e19f921fa7a0b74/)](https://srhwang.notion.site/373ae70ed87e48e19e19f921fa7a0b74/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsro22288@gmail.com)](mailto:hsro22288@gmail.com)
 
-### 💻 기술 스택
 ## DataEngineer
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
